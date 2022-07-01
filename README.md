@@ -1,3 +1,3 @@
 # education
 
-This repository contain homework from VCS
+This repository contain homework from VCS in MD format
